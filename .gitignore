@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# Local data
+seen.json
+
+# Secrets
+keys/
+firebase_key.json
+tavily_client.txt
+
+# OS
+Thumbs.db
+
+# Secrets
+.env
+keys/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# VSCode
+.vscode/
