@@ -1,0 +1,22 @@
+langchain
+langchain-core
+langchain-openai
+langgraph
+tavily-python
+firebase-admin
+python-dotenv
+
+#langchain==0.3.26
+#langchain-core==0.3.66
+#langchain-openai==0.3.27
+#langgraph==0.6.6
+#tavily-python
+#firebase-admin
+#python-dotenv
+
+
+#%%capture
+#!pip install langchain==0.3.26
+#!pip install langchain-openai==0.3.27
+#!pip install langgraph==0.6.6
+#!pip install pygraphviz==1.14
