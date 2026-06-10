@@ -12,6 +12,7 @@ class WorkerState(BaseModel):
     request: ServiceRequest | None = None
 
     # ניתוח
+    intent: str | None= None
     category: str | None = None
     sentiment: str | None = None
     priority: str | None = None
